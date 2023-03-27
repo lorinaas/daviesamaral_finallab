@@ -1,7 +1,9 @@
 # daviesamaral_finallab
 
 Final: Video Games
+
 Assignment Description:
+
 Work with ONE other person as a team. DO NOT use the same partners as you did for the
 midterm - pick someone else.
 Alternatively, work on your own with 2 github accounts (if you have them).
